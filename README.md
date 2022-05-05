@@ -21,6 +21,8 @@ If you follow technology, entrepreneurship, or space exploration, you more recen
 - RStudio - v2022.02.2+485
 
 ## Screenshots
+We created these visualzations in R in order to see if there could be any correlations <br/>
+<br/>
 ![Screenshot 2022-05-05 180159](https://user-images.githubusercontent.com/90923213/167041005-55d82575-7868-4768-89b6-fed7b977b327.png)
 ![Screenshot 2022-05-05 180257](https://user-images.githubusercontent.com/90923213/167041006-7363458b-69f5-4674-950d-98f19c3703bb.png)
 ![Screenshot 2022-05-05 180240](https://user-images.githubusercontent.com/90923213/167041008-da385c8d-16e1-4271-b6bc-0de18c93bb4b.png)
